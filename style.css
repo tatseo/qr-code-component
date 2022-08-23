@@ -1,3 +1,6 @@
-#background {
-    background-color: hsl(220, 15%, 55%);
+body {
+    background-color: hsl(219, 15%, 55%);
+    width: 100vw;
+    height: 100vh;
+    position: 0,0;
 }
